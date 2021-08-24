@@ -3,7 +3,6 @@ package CodingTest;
 import java.util.Arrays;
 import java.util.Scanner;
 
-
 /*
  * 이것이 코딩테스트다 p92
  * 그리디 - 큰 수의 법칙
